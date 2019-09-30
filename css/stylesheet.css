@@ -1,0 +1,250 @@
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    height: auto;
+    padding: 2px;
+
+}
+
+.div {
+    overflow: hidden;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+    width: 805px;
+    float: left;
+    margin: auto;
+    margin-top: 45px
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+h3 {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-weight: 300;
+    font-size: 80px;
+    width: 445px;
+    float: left;
+    margin: auto;
+    margin-left: 30px
+}
+
+p {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    margin: auto;
+    orphans: 3;
+}
+
+.hr {
+    overflow: hidden;
+}
+
+.rectanglered {
+    background-color: darkred;
+    height: 6;
+    position: relative;
+    bottom: 10px;
+}
+
+.overview {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+
+.physical {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: #474747;
+}
+
+.biology {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: white
+}
+
+.ecology {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: #474747;
+
+}
+
+.behavior {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: white;
+
+}
+
+.taxonomy {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: #474747;
+}
+
+.relationship {
+    width: 1280px;
+    margin-top: 30px;
+    height: auto;
+    float: left;
+    background-color: white;
+
+}
+
+.caption {
+    max-width: 600px;
+    float: right;
+    margin: 10px 20px 20px 0px;
+    clear: right;
+    font-size: 18px;
+    color: grey;
+}
+
+.captionwhite {
+    max-width: 600px;
+    float: right;
+    margin: 10px 20px 20px 0px;
+    clear: right;
+    font-size: 18px;
+    color: lightgrey;
+}
+
+.textleft {
+    float: left;
+    max-width: 580px;
+    margin: auto;
+    margin-top: 30px;
+    color: white;
+    padding-left: 40px;
+    margin-bottom: 50px;
+
+}
+
+.textleftblack {
+    float: left;
+    max-width: 580px;
+    margin: auto;
+    color: black;
+    padding-left: 40px;
+    margin-bottom: 50px;
+    margin-top: 30px
+}
+
+.textlefttitle {
+    margin: auto;
+    padding-top: 20px;
+    font-size: 40px;
+    color: white;
+    padding-left: 40px
+}
+
+.textlefttitleblack {
+    margin: auto;
+    padding-top: 20px;
+    font-size: 40px;
+    padding-left: 40px;
+
+
+}
+
+.imgboxright {
+    min-width: 620px;
+    max-width: 620px;
+    float: right;
+    padding: 20px 20px 0px 20px;
+    margin-top: 20px;
+    max-height: 550px;
+
+}
+
+.imgbox {
+    max-width: 1240px;
+    padding: 20px 20px 0px;
+}
+
+.overlaytitle {
+    margin: auto;
+    background-color: black;
+    position: absolute;
+    top: 415px;
+    width: 1280px;
+    height: 120px;
+
+}
+
+.bacgroundblack {
+    background-color: #290900;
+
+}
+
+.bg {
+    background-color: #290900;
+}
+
+.backgroundgrey {
+    background-color: darkgrey;
+    background-size: 100px 2
+}
+
+.backgroundwhite {
+    background-color: white;
+}
+
+.topimg {
+    object-fit: cover;
+    width: 1280px;
+    height: 500px;
+    object-position: 0px -40px;
+    margin: auto;
+}
+
+.bottomgif {
+    width: 600px;
+    margin: auto;
+
+}
+
+.footer {
+    width: 100%;
+    font-size: 12px;
+    height: 90px;
+    background-color: white;
+    margin-top: 20px;
+    float: left;
+    clear: both;
+    color: black;
+    position: relative;
+    bottom: 20px
+}
+.footerimg {
+    height: 90px;
+    float: right;
+    clear: left;
+    bottom: 45px;
+    left: 100px;
+    position: relative;
+}
